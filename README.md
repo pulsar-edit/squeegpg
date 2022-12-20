@@ -1,3 +1,5 @@
+# This Repo is archived under Pulsar-Edit since it is not used.
+
 # squeegpg
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/atom/squeegpg.svg)](https://greenkeeper.io/)
